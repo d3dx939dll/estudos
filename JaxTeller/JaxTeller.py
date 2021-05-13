@@ -27,7 +27,6 @@ def whois():
 	time.sleep(5)
 
 while True:
-	os.system('clear')
 	print("Menu - Pobre \n1 - Ping \n2 - Traceroute\n3 - Whois \n4 - Sair")
 	resposta = input("\n>")
 
