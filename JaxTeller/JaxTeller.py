@@ -1,6 +1,6 @@
 import os
 import time
-print("\n\nMulti  1.0")
+print("\nJaxTeller 1.0")
 
 def ping():
 	os.system('clear')
