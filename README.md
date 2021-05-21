@@ -1,2 +1,2 @@
-# pacman -S suicide-life
+# sudo pacman -S suicide-life
 Repositorio para estudos.
