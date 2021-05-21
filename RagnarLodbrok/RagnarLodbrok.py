@@ -55,8 +55,7 @@ while True:
  / \  / \  / \  / \ 
 ( W )( G )( E )( T )
  \_/  \_/  \_/  \_/ 
-''')
-		print("Ex: ")
+		      ''')
 		baixar()
 
 	#request
