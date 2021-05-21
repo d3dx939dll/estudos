@@ -1,2 +1,2 @@
-# heikoa
+# pacman -S suicide-life
 Repositorio para estudos.
